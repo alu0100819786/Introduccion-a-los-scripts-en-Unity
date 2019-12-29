@@ -3,6 +3,8 @@
  -Autor: Gabriel Melián Hernández.
  
  Gif para ver su funcionamiento: https://gyazo.com/34e4d808fe6aaeabd2d6b069a17e91f4
+ 
+ 
  En esta práctica se realiza la implementación de un script para llevar a cabo el movimiento de una Esfera controlada por teclado por el usuario.
  Para llevar a cabo este movimiento en primer lugar definimos los dos valores numéricos que queramos que tome nuestra esfera a la hora de rotar y la velocidad de la misma. En nuestro caso estos valores serán.
     
